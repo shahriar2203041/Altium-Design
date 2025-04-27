@@ -1,0 +1,12 @@
+Thrilled to share my latest PCB design project — a 5V to 3.3V Voltage Regulator, fully designed using Altium Designer! 🛠️🔋
+This board steps down a 5V input to a stable 3.3V output using the MIC5317 LDO Regulator — perfect for powering low-voltage embedded devices like ESP32, STM32, and other 3.3V logic systems.
+(Designed as part of an assignment by Embedded Innovators KUET.)
+
+🔧 What I worked on:
+• Designed the schematic and PCB layout in Altium
+• Integrated SM02B-GHS-TB(LF)(SN) connectors for easy system integration
+• Simulated and visualized the board in 3D
+• Focused on clean routing and compact component placement
+
+💡 Skills practiced:
+PCB Design | Power Electronics | Circuit Simulation | 3D PCB Modeling | Altium Designer
